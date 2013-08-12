@@ -1,0 +1,10 @@
+0 renege vt. 放弃 8 0
+1 replenish vt. 补充 3 0
+2 replicate vt. 复制 2 0
+3 residual adj. 剩余的 5 0
+4 restitution n. 补偿，赔偿 1 1
+5 resurrect vt. 使重生，复活 4 0
+6 retentive adj. 记性好的 6 0
+7 retrieve vt. 寻回，找回 5 0
+8 reverberate i. 回荡，回响 5 0
+9 rhetorical adj. 语言上的，文字上的 5 0
